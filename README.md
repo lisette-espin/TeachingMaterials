@@ -13,3 +13,7 @@ My teaching materials (slides, code, notebooks, etc)
 
 ### Social Behavior and Trends
 - October 31, 2023 @ TU Graz [[slides]](lectures/CSS_Behavior_and_Trends/slides/css_behavior_and_trends_slides_TUGraz.pdf) [[notebooks]](lectures/2_Behavior_and_Trends/notebooks/code/notebooks)
+
+### Social Network Modelling and Applications
+- April 30, 2023 @ The ACM Web Conference, Austin TX [[website]](https://bit.ly/snma2023) [[repo]](https://github.com/snma-tutorial/www2023)
+
