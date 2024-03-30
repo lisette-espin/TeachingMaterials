@@ -7,6 +7,10 @@ My teaching materials (slides, code, notebooks, etc)
 ### Never Give a Bad & Boring Presentation
 - Marc 20, 2024 @ CEU [[slides]](lectures/SS_Great_Presentations/slides/ss_great_presentations_slides_CEU.pdf)
 
+### How to make scientific posters
+- October 06, 2023 @ CEU
+
+
 ## Computational Social Science (CSS)
 ### Inequalities: Networks and Algorithms
 - May 31, 2023 @ TU Wien [[slides]](lectures/CSS_Inequalities/slides/css_inequalities_slides_TUWien.pdf)
@@ -17,3 +21,5 @@ My teaching materials (slides, code, notebooks, etc)
 ### Social Network Modelling and Applications
 - April 30, 2023 @ The ACM Web Conference, Austin TX [[website]](https://bit.ly/snma2023) [[repo]](https://github.com/snma-tutorial/www2023)
 
+### Introduction to Social Network Science with Python
+- September 21-25, 2020 @ Virtual GESIS Methods Seminar [[repo]](https://github.com/gesiscss/methods_seminar_2020_network_science)
