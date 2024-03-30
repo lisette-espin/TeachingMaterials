@@ -8,7 +8,7 @@ My teaching materials (slides, code, notebooks, etc)
 - Marc 20, 2024 @ CEU [[slides]](lectures/SS_Great_Presentations/slides/ss_great_presentations_slides_CEU.pdf)
 
 ### How to make scientific posters
-- October 06, 2023 @ CEU
+- October 06, 2022 @ CEU
 
 
 ## Computational Social Science (CSS)
