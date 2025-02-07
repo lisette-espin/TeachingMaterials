@@ -12,12 +12,16 @@ My teaching materials (slides, code, notebooks, etc)
 
 
 ## Computational Social Science (CSS)
+
+### Algorithm Auditing
+- Feb 5, 2024 @ CEY [[slides]](lectures/CSS_Algorithm_Auditing/slides/2025-02-05-EspinNoboa_Audits_CEU.pdf)
+
 ### Inequalities: Networks and Algorithms
 - May 31, 2023 @ TU Wien [[slides]](lectures/CSS_Inequalities/slides/css_inequalities_slides_TUWien.pdf)
 
 ### Social Behavior and Trends
 - October 29, 2024 @ TU Graz [[slides]](lectures/CSS_Behavior_and_Trends/slides/css_behavior_and_trends_slides_2024_TUGraz.pdf) [[notebooks]](lectures/CSS_Behavior_and_Trends/notebooks/code/notebooks)
-- October 31, 2023 @ TU Graz [[slides]](lectures/CSS_Behavior_and_Trends/slides/css_behavior_and_trends_slides_TUGraz.pdf) [[notebooks]](lectures/CSS_Behavior_and_Trends/notebooks/code/notebooks)
+- October 31, 2023 @ TU Graz [[slides]](lectures/CSS_Behavior_and_Trends/slides/css_behavior_and_trends_slides_2023_TUGraz.pdf) [[notebooks]](lectures/CSS_Behavior_and_Trends/notebooks/code/notebooks)
 
 ### Social Network Modelling and Applications
 - September 13, 2024 @ ECML-PKDD Conference, Vilnius, Lithuania [[website]](https://bit.ly/snma-2024) [[repo]](https://github.com/snma-tutorial/ecmlpkdd2024)
