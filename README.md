@@ -14,7 +14,7 @@ My teaching materials (slides, code, notebooks, etc)
 ## Computational Social Science (CSS)
 
 ### Algorithm Auditing
-- Feb 5, 2024 @ CEY [[slides]](lectures/CSS_Algorithm_Auditing/slides/2025-02-05-EspinNoboa_Audits_CEU.pdf)
+- Feb 5, 2024 @ CEU [[slides]](lectures/CSS_Algorithm_Auditing/slides/2025-02-05-EspinNoboa_Audits_CEU.pdf)
 
 ### Inequalities: Networks and Algorithms
 - May 31, 2023 @ TU Wien [[slides]](lectures/CSS_Inequalities/slides/css_inequalities_slides_TUWien.pdf)
