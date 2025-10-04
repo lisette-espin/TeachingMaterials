@@ -3,4 +3,5 @@ sources
 literature
 .DS_Store
 .ipynb_checkpoints
-
+*.docx
+lectures/CSS_Behavior_and_Trends/materials/reading
