@@ -3,6 +3,15 @@ My teaching materials (slides, code, notebooks, etc)
 
 `Author:` Lisette Espin-Noboa 
 
+---
+
+## LLMs
+
+### LLMs in Scientific Work (writing, data analysis, and coding)
+- July 07-09, 2025 @ CSH [[material]](https://bit.ly/LLMMiniWorkshopCSH0725)
+
+---
+
 ## Soft Skills (SS)
 ### Never Give a Bad & Boring Presentation
 - Marc 20, 2024 @ CEU [[slides]](lectures/SS_Great_Presentations/slides/ss_great_presentations_slides_CEU.pdf)
@@ -10,6 +19,7 @@ My teaching materials (slides, code, notebooks, etc)
 ### How to make scientific posters
 - October 06, 2022 @ CEU
 
+---
 
 ## Computational Social Science (CSS)
 
