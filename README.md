@@ -7,6 +7,9 @@ My teaching materials (slides, code, notebooks, etc)
 
 ## LLMs
 
+### Auditing Large Language Models Using Network Data
+- December 12, 2025, TU Wien [[slides]](https://bit.ly/AuditingLLMs_TUWien2025)
+
 ### LLMs in Scientific Work (writing, data analysis, and coding)
 - July 07-09, 2025 @ CSH [[material]](https://bit.ly/LLMMiniWorkshopCSH0725)
 
